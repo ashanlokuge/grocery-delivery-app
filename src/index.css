@@ -9,9 +9,14 @@
 }
 
 /*custom css variable*/
-@layer base{
+/* @layer base{
   :root{
     --color-primary: #4fbf8b;
     --color-primary-dull: #44ae7c;
   }
+} */
+
+@theme{
+  --color-primary:#4fbf8b;
+  --color-primary-dull:#44ae7c;
 }
